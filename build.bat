@@ -1,0 +1,1 @@
+g++ main.cpp Camera.cpp Rotator.cpp Renderer.cpp -o program -I C:\SDL2-2.32.10\x86_64-w64-mingw32\include -L C:\SDL2-2.32.10\x86_64-w64-mingw32\lib -std=c++17 -lSDL2main -lSDL2
