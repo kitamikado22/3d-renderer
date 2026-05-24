@@ -6,7 +6,7 @@
 
 
 ## デモ動画（Youtube）
-[![Watch the video](https://img.youtube.com/vi/Usq6r2-WRY4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Usq6r2-WRY4)
+[![Watch the video](https://img.youtube.com/vi/Usq6r2-WRY4/hqdefault.jpg)](https://www.youtube.com/watch?v=Usq6r2-WRY4)
 
 
 ---
